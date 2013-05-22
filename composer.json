@@ -21,6 +21,5 @@
         "psr-0": {
         	"CakePHP\\Utility\\": "vendor/cake/Hash"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
