@@ -23,11 +23,11 @@ Then, add this inside the "autoload" section of this file:
 			…
 		],
         "psr-0": {
-        	"CakePHP\\Utility\\": "vendor/cake/Hash"
+        	"CakePHP\\Utility\\": "vendor/zzal/cakephp-hash/Hash"
         }
 
 
 Finally, update Composer from the Terminal:
 
-    composer update
+    composer install
 
