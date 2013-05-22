@@ -1,6 +1,6 @@
 {
     "name": "zzal/cakephp-hash",
-    "description": "LMongo is a MongoDB package for Laravel 4.",
+    "description": "XPath-like path syntax for arrays from cakePHP Framework",
     "keywords": ["Array", "XPath", "Laravel 4"],
     "homepage": "https://github.com/zzal/cakephp-hash/",
     "license": "MIT",
