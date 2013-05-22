@@ -13,7 +13,7 @@ This package (intended for Laravel 4) gives you the ability to use the great cak
 Install this package through Composer. To do so, edit your project's `composer.json` file to require `zzal/cakephp-hash`.
 
     "require": {
-		"zzal/cakephp-hash": "dev-master"
+		"zzal/cakephp-hash": "*"
 	}
 	
 Then, add this inside the "autoload" section of this file:
