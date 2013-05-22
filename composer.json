@@ -3,6 +3,7 @@
     "description": "XPath-like path syntax for arrays from cakePHP Framework",
     "keywords": ["Array", "XPath", "Laravel 4"],
     "homepage": "https://github.com/zzal/cakephp-hash/",
+    "version": "2.3.5",
     "license": "MIT",
     "require": {
         "php": ">=5.3.0"
