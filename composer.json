@@ -1,0 +1,26 @@
+{
+    "name": "zzal/cakephp-hash",
+    "description": "LMongo is a MongoDB package for Laravel 4.",
+    "keywords": ["Array", "XPath", "Laravel 4"],
+    "homepage": "https://github.com/zzal/cakephp-hash/",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "CakePHP",
+            "homepage": "http://cakephp.org/"
+        },
+        {
+            "name": "Alain Duchesneau",
+            "email": "alain.duchesneau@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+        	"CakePHP\\Utility\\": "vendor/cake/Hash"
+        }
+    },
+    "minimum-stability": "dev"
+}
