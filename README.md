@@ -1,6 +1,9 @@
 cakephp-hash
 ============
 
+**Please note that this package is in alpha develpment phase.**
+
+
 This package (intended for Laravel 4) gives you the ability to use the great cakePHP’s Hash class into your Laravel 4 projects.
 
 [See cakePHP documentation.](http://book.cakephp.org/2.0/en/core-utility-libraries/hash.html)
