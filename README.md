@@ -55,3 +55,17 @@ Route::get('/', function()
 	var_dump($result);
 });
 ```
+
+And the result would be:
+
+```php
+array(1) {
+  [0]=>
+  array(2) {
+    ["id"]=>
+    int(2)
+    ["title"]=>
+    string(3) "Two"
+  }
+}
+```
