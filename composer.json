@@ -1,6 +1,6 @@
 {
     "name": "zzal/cakephp-hash",
-    "description": "XPath-like path syntax for arrays from cakePHP Framework",
+    "description": "XPath-like path syntax for complex arrays using awesome cakePHP’s Hash class",
     "keywords": ["Array", "XPath", "Laravel 4"],
     "homepage": "https://github.com/zzal/cakephp-hash/",
     "version": "2.3.5",
