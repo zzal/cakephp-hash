@@ -5,7 +5,7 @@ cakephp-hash
 
 
 This is simply a wrapper package to help you use the awesome cakePHP’s Hash class in your non-cakePHP project (using composer). 
-This helper class let you manipulate complexe PHP arrays using Xpath-like syntax.
+This helper class let you manipulate complex PHP arrays using Xpath-like syntax.
 
 [See cakePHP documentation.](http://book.cakephp.org/2.0/en/core-utility-libraries/hash.html)
 
