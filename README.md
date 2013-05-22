@@ -36,6 +36,8 @@ Basic Usage
 As Laravel 4 already have a class named Hash, I suggest that you use the cakePHP Hash class with an alias, like in the following example (routes.php):
 
 ```php
+<?php
+
 use CakePHP\Utility\Hash as ArrayXPath;
 
 Route::get('/', function()
@@ -58,7 +60,7 @@ Route::get('/', function()
 
 And the result would be:
 
-```php
+```
 array(1) {
   [0]=>
   array(2) {
