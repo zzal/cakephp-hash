@@ -20,7 +20,7 @@
     ],
     "autoload": {
         "psr-0": {
-        	"CakePHP\\Utility\\": "vendor/zzal/cakephp-hash/Hash"
+        	"CakePHP\\Utility\\": "Hash/"
         }
     }
 }
